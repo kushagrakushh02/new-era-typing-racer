@@ -126,15 +126,11 @@ The screenshots below show the main screen, an active race, the result popup, an
 ### Game Interface
 ![Game Interface](screenshots/game-interface.png)
 
-### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
-### Race Result
 ![Race Result](screenshots/race-result.png)
 
-### Typing Speed Performance
 ![Typing Speed Performance](screenshots/typing-performance.png)
-
 **Note:** Upload the four image files to the `screenshots` folder using these exact filenames, or update the image paths above to match your own filenames.
 
 ## 🎯 What I Learned
