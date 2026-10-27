@@ -108,30 +108,11 @@ These measurements give the player a simple way to check typing speed and accura
 
 ```text
 new-era-typing-racer/
-├── typing_racer.py
 ├── README.md
-└── screenshots/
-    ├── game-interface.png
-    ├── gameplay.png
-    ├── race-result.png
-    └── typing-performance.png
+└── typing_racer.py
 ```
 
-This is a suggested structure. Keep the filenames in the README consistent with the files you actually upload.
-
-## 🖼️ Screenshots
-
-The screenshots below show the main screen, an active race, the result popup, and the typing-speed graph.
-
-### Game Interface
-![Game Interface](screenshots/game-interface.png)
-
-![Gameplay](screenshots/gameplay.png)
-
-![Race Result](screenshots/race-result.png)
-
-![Typing Speed Performance](screenshots/typing-performance.png)
-**Note:** Upload the four image files to the `screenshots` folder using these exact filenames, or update the image paths above to match your own filenames.
+This is a suggested structure. 
 
 ## 🎯 What I Learned
 
